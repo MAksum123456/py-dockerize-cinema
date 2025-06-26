@@ -1,4 +1,4 @@
-FROM python:3.13
+FROM python:3.12-slim
 LABEL maintainer="smolinskijmaksim@gmail.com"
 
 ENV PYTHONUNBUFFERED 1
